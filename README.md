@@ -1,6 +1,6 @@
 Emanuel Torres Troncoso.
 
-url despliegue: https://torresx9-11.github.io/Interfaz-Bootstrap/
+URL despliegue: https://torresx9-11.github.io/Interfaz-Bootstrap/
 
 Interfaz creada completamente desde bootstrap5 siguiendo las intrucciones mencionadas, siguiendo la estructura del wireframe entregado,
 quisaz por parte de la coloracion existe una diferencia ya que bootstrap no permite jugar con mucho con las tonalidades de colores.
